@@ -1,4 +1,4 @@
 # AI-ML-Prompt-Engineering-Lab
 The purpose of this lab assignment is to use llm's to generate a SWOT analysis of a company of my choosing within a field that I want to work in. I will be using Indeed to search for a company where I want to work, using llm's to generate a SWOT analysis of the company, and refining the prompts that I'm giving to the AI to improve my outcome. 
 
-The company that I have chosen is Bell Helicopter.
+The company that I have chosen is Bell Helicopter, whose name has recently been changed to Bell Textron. I have always wanted to work at Bell since that is where my father works, so I looked for a job in an aerospace company. Bell is a major north american areospace manufacturer that is headquartered in Fort Worth, Texas. Bell also has multiple locations across the world, including Canada, the Czech Republic, Singapore, and even China. Bell specializes in the manufacturing of both military and commercial helicopters and is considered one of the top helicopter manufacturers in the world.
